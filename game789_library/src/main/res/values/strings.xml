@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="luosu_username">用户名</string>
+    <string name="luosu_login">登录</string>
+    <string name="luosu_pass_colon">密码：</string>
+    <string name="luosu_username_colon">用户名：</string>
+    <string name="luosu_edit_digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_</string>
+    <string name="luosu_register">注册</string>
+    <string name="pay_center">支付中心</string>
+    <string name="pay_account">充值账号：</string>
+    <string name="pay_gold">充值金额:</string>
+    <string name="pay_jifen_balance">积分余额:</string>
+    <string name="pay_type">请选择付款方式:</string>
+    <string name="zhifubao">支付宝</string>
+    <string name="weixin">微信</string>
+    <string name="platform">平台币</string>
+    <string name="jifen">积分</string>
+
+</resources>

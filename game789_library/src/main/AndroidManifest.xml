@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.luosu.game789_library">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application>
+        <activity
+            android:name="com.luosu.activitys.LoginActivity"
+            android:theme="@style/activity_style" />
+        <activity
+            android:name="com.luosu.activitys.RegisterActivity"
+            android:theme="@style/activity_style" />
+        <activity
+            android:name="com.luosu.activitys.PayActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/activity_style" />
+        <activity
+            android:name="com.luosu.activitys.WebPayActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/activity_style" />
+        <activity
+            android:name="com.luosu.activitys.UpdataActivity"
+            android:theme="@style/activity_style" />
+        <activity
+            android:name="com.luosu.activitys.SimpleLoginActivity"
+            android:theme="@style/activity_style"></activity>
+    </application>
+
+</manifest>

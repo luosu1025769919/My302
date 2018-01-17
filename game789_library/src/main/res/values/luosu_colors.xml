@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="luosu_white">#FFFFFF</color>
+    <color name="luosu_translate">#22000000</color>
+    <color name="luosu_red">#de0f0f</color>
+    <color name="luosu_red_qian">#ce4c4c</color>
+    <color name="luosu_orange">#FF7608</color>
+    <color name="luosu_gray">#898481</color>
+
+
+
+
+</resources>

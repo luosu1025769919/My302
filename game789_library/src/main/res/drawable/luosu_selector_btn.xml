@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <corners android:radius="4dp"></corners>
+            <solid android:color="@color/luosu_red_qian">
+
+
+            </solid>
+        </shape>
+
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="4dp"></corners>
+            <solid android:color="@color/luosu_red">
+
+
+            </solid>
+        </shape>
+
+    </item>
+</selector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My302.iml" filepath="$PROJECT_DIR$/My302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/days/days.iml" filepath="$PROJECT_DIR$/days/days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game789_library/game789_library.iml" filepath="$PROJECT_DIR$/game789_library/game789_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game789_test/game789_test.iml" filepath="$PROJECT_DIR$/game789_test/game789_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inbox_library/inbox_library.iml" filepath="$PROJECT_DIR$/inbox_library/inbox_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inboxtest/inboxtest.iml" filepath="$PROJECT_DIR$/inboxtest/inboxtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiedai/jiedai.iml" filepath="$PROJECT_DIR$/jiedai/jiedai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsrepeater/smsrepeater.iml" filepath="$PROJECT_DIR$/smsrepeater/smsrepeater.iml" />
+    </modules>
+  </component>
+</project>
